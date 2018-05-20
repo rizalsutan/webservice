@@ -1,0 +1,83 @@
+--------------------Configuration: twitter - JDK version 1.6.0_25 <Default> - <Default>--------------------
+
+My Timeline:
+Sent by: @Rizalsutan2 - Rizal sutan
+Hi, im updating status again from Namex Tweet for Demo
+
+Sent by: @Rizalsutan2 - Rizal sutan
+Tugas Mata Kuliah Web Service: Mengakses Timeline Twiiter.
+Nama Rizal Sutan
+NIM 17.01.53.5004
+
+Sent by: @bmkg_semarang - BMKG JATENG
+Prakiraan Cuaca Wilayah Semarang dan sekitarnya berlaku 12 Jam 
+Tanggal 19 Mei 2018 pukul 19.00 WIB s.d Tanggal 20… https://t.co/VbJaxzj5Jb
+
+Sent by: @bmkg_semarang - BMKG JATENG
+Prakiraan Cuaca Wilayah Semarang dan sekitarnya berlaku 12 Jam 
+Tanggal 19 Mei 2018 pukul 19.00 WIB s.d Tanggal 20… https://t.co/O4LXvYme2n
+
+Sent by: @bmkg_semarang - BMKG JATENG
+Prakiraan Cuaca Umum Wilayah Jawa Tengah berlaku 12 Jam 
+Tanggal 19 Mei 2018 pukul 19.00 WIB s.d Tanggal 20 Mei 201… https://t.co/Nxp7IcVQCi
+
+Sent by: @bmkg_semarang - BMKG JATENG
+Prakiraan Cuaca Umum Wilayah Jawa Tengah berlaku 12 Jam 
+Tanggal 19 Mei 2018 pukul 19.00 WIB s.d Tanggal 20 Mei 201… https://t.co/FrnnLUd5mT
+
+Sent by: @bmkg_semarang - BMKG JATENG
+Informasi Cuaca Pelayaran berlaku tanggal 19 Mei 2018 jam 19.00 wib - 20 Mei 2018 jam 19.00 wib dan Prakiraan Pasan… https://t.co/PnWprWIdxg
+
+Sent by: @bmkg_semarang - BMKG JATENG
+Informasi Cuaca Pelayaran berlaku tanggal 19 Mei 2018 jam 19.00 wib - 20 Mei 2018 jam 19.00 wib dan Prakiraan Pasan… https://t.co/CSbD4OFqx3
+
+Sent by: @bmkg_semarang - BMKG JATENG
+https://t.co/ZXOWaeRhQh
+
+Sent by: @bmkg_semarang - BMKG JATENG
+Prakiraan Cuaca Wilayah Perairan dan Samudera Hindia Selatan Jawa Tengah
+
+Berlaku Mulai Pagi Ini Jam 07.00 WIB samp… https://t.co/zWciDdWqZP
+
+Sent by: @bmkg_semarang - BMKG JATENG
+Prakiraan Cuaca Wilayah Perairan dan Samudera Hindia Selatan Jawa Tengah
+
+Berlaku Mulai Pagi Ini Jam 07.00 WIB samp… https://t.co/BArGy5Jv9t
+
+Sent by: @bmkg_semarang - BMKG JATENG
+Prakiraan Cuaca Wilayah Semarang dan sekitarnya berlaku 12 Jam 
+Tanggal 19 Mei 2018 pukul 07.00 WIB s.d pukul 19.00… https://t.co/OZ0eXUMQYd
+
+Sent by: @bmkg_semarang - BMKG JATENG
+Prakiraan Cuaca Wilayah Semarang dan sekitarnya berlaku 12 Jam 
+Tanggal 19 Mei 2018 pukul 07.00 WIB s.d pukul 19.00… https://t.co/WAXxPANsul
+
+Sent by: @bmkg_semarang - BMKG JATENG
+Prakiraan Cuaca Umum Wilayah Jawa Tengah berlaku 12 Jam 
+Tanggal 19 Mei 2018 pukul 07.00 WIB s.d pukul 19.00 WIB https://t.co/lxmKRPJr5h
+
+Sent by: @bmkg_semarang - BMKG JATENG
+Prakiraan Tinggi Gelombang wilayah Perairan Indonesia mulai tgl 18-25 Mei 2018 https://t.co/26sZkKS74a
+
+Sent by: @bmkg_semarang - BMKG JATENG
+Prakiraan Cuaca Wilayah Perairan Laut Jawa Berlaku 12 Jam 
+Tanggal 19 Mei 2018 pukul 07.00 WIB s.d pukul 19.00 WIB https://t.co/zodEar49ku
+
+Sent by: @bmkg_semarang - BMKG JATENG
+Prakiraan Cuaca Wilayah Semarang dan sekitarnya berlaku 12 Jam 
+Tanggal 18 Mei 2018 pukul 19.00 WIB s.d Tanggal 19… https://t.co/qFs4NIuUHr
+
+Sent by: @bmkg_semarang - BMKG JATENG
+Prakiraan Cuaca Wilayah Semarang dan sekitarnya berlaku 12 Jam 
+Tanggal 18 Mei 2018 pukul 19.00 WIB s.d Tanggal 19… https://t.co/yolU5ixyaq
+
+Sent by: @bmkg_semarang - BMKG JATENG
+Prakiraan Cuaca Umum Wilayah Jawa Tengah berlaku 12 Jam 
+Tanggal 18 Mei 2018 pukul 19.00 WIB s.d Tanggal 19 Mei 201… https://t.co/TCuq3UTubO
+
+Sent by: @bmkg_semarang - BMKG JATENG
+Prakiraan Cuaca Umum Wilayah Jawa Tengah berlaku 12 Jam 
+Tanggal 18 Mei 2018 pukul 19.00 WIB s.d Tanggal 19 Mei 201… https://t.co/vPmMra5r35
+
+
+Process completed.
